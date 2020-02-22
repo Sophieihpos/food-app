@@ -1,0 +1,30 @@
+const nonVeganFood = [
+  "bacon",
+  "beef",
+  "butter",
+  "calamari",
+  "cheese",
+  "chicken",
+  "crab",
+  "cream",
+  "duck",
+  "egg",
+  "fish",
+  "honey",
+  "ice cream",
+  "lamb",
+  "lobster",
+  "meat",
+  "milk",
+  "mussels",
+  "oysters",
+  "pork",
+  "prawns",
+  "squid",
+  "turkey",
+  "veal",
+  "xylophone",
+  "yoghurt"
+]
+
+export default nonVeganFood
