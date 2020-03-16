@@ -1,7 +1,7 @@
 const exampleData = [
   {
     id: 1,
-    name: "Eleanor",
+    name: "Eleanor (example)",
     isVegetarian: false,
     isVegan: false,
     isGlutenFree: false,
@@ -9,7 +9,7 @@ const exampleData = [
   },
   {
     id: 2,
-    name: "Chidi",
+    name: "Chidi (example)",
     isVegetarian: true,
     isVegan: true,
     isGlutenFree: true,
@@ -17,7 +17,7 @@ const exampleData = [
   },
   {
     id: 3,
-    name: "Tahani",
+    name: "Tahani (example)",
     isVegetarian: true,
     isVegan: false,
     isGlutenFree: true,
@@ -25,7 +25,7 @@ const exampleData = [
   },
   {
     id: 4,
-    name: "Jason",
+    name: "Jason (example)",
     isVegetarian: false,
     isVegan: false,
     isGlutenFree: false,

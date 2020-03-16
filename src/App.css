@@ -137,6 +137,16 @@ ul {
 h3 {
   border-bottom: 1px solid black;
 }
+#working-title{
+  font-size: .3em;
+}
+#footer-link{
+  text-decoration: underline;
+  color: black;
+}
+#footer-link:hover{
+  color: white;
+}
 
 @media (min-width: 768px){
   #app-container {

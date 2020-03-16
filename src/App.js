@@ -11,11 +11,11 @@ import Food from "./components/FoodComponents/Food"
 import exampleData from "./exampleData"
 
 function App() {
+  //some example profiles and groups are provided in the initial state
   const [profileData, setProfileData] = useState(exampleData);
-  //some example groups are provided in the initial state
   const [groupData, setGroupData] = useState([
-    {groupName: "Dinner Party", members: [1, 2, 3, 4]},
-    {groupName: "Breakfast", members: [3, 2, 4]}
+    {groupName: "Dinner Party (example)", members: [1, 2, 3, 4]},
+    {groupName: "Breakfast (example)", members: [3, 2, 4]}
   ])
 
   function handleChange(event, stateUpdateFunction){

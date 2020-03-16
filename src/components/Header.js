@@ -4,7 +4,7 @@ function Header() {
   return(
     <div className="row" id="top">
       <div>
-        <h1>Fooooooooooooooooooood!</h1>
+        <h1>Fooooooooooooooooooood!<span id="working-title">(working title)</span></h1>
       </div>
     </div>
   )

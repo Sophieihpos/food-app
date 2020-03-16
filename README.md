@@ -5,4 +5,4 @@ After a particularly tricky family gathering that involved several food preferen
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project is still in its early stages, so the diet/preferences options and ingredients list is limited.
+This project is in its early stages, so the diet/preferences options and ingredients list is limited. Also, I am not a dietician or nutritionist so don't rely on this app to decide what to feed your friends with allergies and whatnot.
